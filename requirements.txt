@@ -1,0 +1,2 @@
+opentelemetry-instrumentation-logging
+opentelemetry-semantic-conventions

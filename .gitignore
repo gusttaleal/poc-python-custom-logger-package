@@ -1,0 +1,13 @@
+dist
+build
+
+*.egg-info
+
+.idea
+.vscode
+.venv
+.virtualenv
+
+__pycache__
+
+tst.*
